@@ -145,7 +145,7 @@ For Keepalives, the server will send 2 actions to the handler:
         "warning": 10,
         "critical": 300
       },
-      "handlers": "decommission"
+      "handler": "decommission"
     }
   }
 }
